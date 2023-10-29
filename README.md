@@ -67,12 +67,12 @@ Sinta-se a vontade para explorar e contribuir com os projetos. <br>
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leonamCruz&theme=tokyonight&rank_icon=defaut&include_all_commits=true" />
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonamCruz&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10" />
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leonamCruz&theme=tokyonight&utcOffset=-3" />
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeoGuedex&theme=tokyonight"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leonamCruz&theme=tokyonight"/>
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonamCruz&theme=tokyonight&card_width=500px" />
 </div>
 
 <div align="center">
-       <img src="https://github-profile-trophy.vercel.app/?username=LeoGuedex&theme=tokyonight&column=-1"/>
+       <img src="https://github-profile-trophy.vercel.app/?username=leonamCruz&theme=tokyonight&column=-1"/>
    </div>
 
 <br><br>
